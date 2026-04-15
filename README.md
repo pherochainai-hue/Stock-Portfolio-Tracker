@@ -44,5 +44,3 @@ The goal of this project is to build a simple stock portfolio tracker using Pyth
   - How to structure a real-world mini project
   - Importance of input validation
   - Basic financial calculation logic
-
-_portfolio_tracker.py
